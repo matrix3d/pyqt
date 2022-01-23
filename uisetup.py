@@ -19,7 +19,7 @@ setup(
     options=options,
     description = "setup",
     zipfile=None,
-    
+
     #console = [{"script":'Json2fbx.py'}])
 
     console = [{"script":'main.py',"icon_resources":[(1,"favicon.ico")]}])
