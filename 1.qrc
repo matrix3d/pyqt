@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="q">
+    <file>ico/bad.png</file>
+    <file>ico/brick.png</file>
+    <file>ico/copy.png</file>
+    <file>ico/cut.png</file>
+    <file>ico/heart.png</file>
+    <file>ico/new.png</file>
+    <file>ico/open.png</file>
+    <file>ico/paste.png</file>
+    <file>ico/print.png</file>
+    <file>ico/qt-logo.png</file>
+    <file>ico/save.png</file>
+    <file>ico/trash.png</file>
+    <file>ico/undo.png</file>
+    <file>Images.png</file>
+  </qresource>
+</RCC>
