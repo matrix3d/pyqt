@@ -35,6 +35,8 @@ def dropEvent(event):
         event.setDropAction(Qt.CopyAction)
         event.accept()
         print(event.mimeData().urls())
+    else:
+        event.ignore()
 
 
 btn.dragEnterEvent = dragEnterEvent
